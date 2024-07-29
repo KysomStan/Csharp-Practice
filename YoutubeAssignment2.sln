@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeAssignment2", "YoutubeAssignment2\YoutubeAssignment2.csproj", "{A1136362-326B-4583-B06F-81A0130C60BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1136362-326B-4583-B06F-81A0130C60BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1136362-326B-4583-B06F-81A0130C60BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1136362-326B-4583-B06F-81A0130C60BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1136362-326B-4583-B06F-81A0130C60BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA491E1D-3AF1-4A0A-9B08-3C6AFB507966}
+	EndGlobalSection
+EndGlobal
